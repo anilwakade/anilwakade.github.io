@@ -10,4 +10,4 @@ Currently, I find myself immersed in the dynamic realm of the MB.OS team, where 
 
 As I navigate the ever-evolving landscape of software development, I am eager to connect with like-minded individuals and collaborate on exciting C++ projects. 🚀
 
-Stay tuned for a blend of knowledge-sharing and exploration into the vast world of C++, Software Development, and Software-Defined Vehicles. 🚗🌟💻 #Cplusplus #SoftwareDevelopment #AutomotiveExcellence
+Stay tuned for a blend of knowledge-sharing and exploration into the vast world of C++, Software Development, and Software-Defined Vehicles. 🚗🌟💻
